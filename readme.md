@@ -4,6 +4,7 @@ Choose needs version from branch and download source tarball
 
 branches:
 
+- qt/5.12.11
 - qt/5.15.2
 
 ## 4developes notes:
