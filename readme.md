@@ -7,8 +7,9 @@ branches:
 - qt/5.12.11
 - qt/5.15.2
 
-## 4developes notes:
+## for developers notes:
 
+https://stackoverflow.com/a/13969482
 
 You can create an empty branch as an orphan:
 
