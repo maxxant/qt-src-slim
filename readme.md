@@ -11,7 +11,7 @@ branches:
 
 You can create an empty branch as an orphan:
 
-git checkout --orphan <branchname>
+git checkout --orphan branchname
 
 This will create a new branch with no parents. Then, you can clear the working directory with:
 
