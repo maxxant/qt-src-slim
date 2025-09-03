@@ -1,6 +1,6 @@
 # slim tarballs
 
-Choose needs version from branch and download source tarball
+Choose the required version from a Git branch and download the source code tarball
 
 branches:
 
@@ -9,6 +9,8 @@ branches:
 - qt/5.11.3
 - qt/5.12.11
 - qt/5.15.2
+- qt/5.15.12
+- qt/5.15.17
 
 ## for developers notes:
 
